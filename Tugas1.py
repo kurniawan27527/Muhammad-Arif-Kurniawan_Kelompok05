@@ -1,5 +1,5 @@
 from Percobaan_Tugas import Game
-
+print("Kelompok 05")
 game = Game()
 
 while True:
